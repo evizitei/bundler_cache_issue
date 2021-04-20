@@ -39,12 +39,6 @@ Set for your local app (/Users/evizitei/repro/.bundle/config): true
 cache_all_platforms
 Set for your local app (/Users/evizitei/repro/.bundle/config): true
 
-no_prune
-Set for your local app (/Users/evizitei/repro/.bundle/config): true
-
-build.nokogiri
-Set for your local app (/Users/evizitei/repro/.bundle/config): "--use-system-libraries"
-
 without
 Set for your local app (/Users/evizitei/repro/.bundle/config): [:pulsar]
 
