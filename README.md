@@ -50,6 +50,15 @@ Set for your local app (/Users/evizitei/repro/.bundle/config): [:pulsar]
 
 evizitei@c02zvbkvmd6t repro %
 ```
+
+And that you have the latest bundler:
+
+```bash
+evizitei@c02zvbkvmd6t repro % bundle --version
+Bundler version 2.2.16
+evizitei@c02zvbkvmd6t repro %
+```
+
 1) wipe out both bundle and vendor:
 
 ```bash
